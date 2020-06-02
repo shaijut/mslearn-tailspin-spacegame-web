@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/shaiju1319/MS_BUILDDEMO%20-%20workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/shaiju1319/MS_BUILDDEMO%20-%20workflow/_build/latest?definitionId=3&branchName=master)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=shaijut_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=shaijut_mslearn-tailspin-spacegame-web)
 
 # Contributing
 
